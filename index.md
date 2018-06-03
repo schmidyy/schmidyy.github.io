@@ -2,7 +2,80 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Experience
+
+<div class="app-desc">
+  <a target='_blank' href="https://www.shopify.ca/">
+    <img class="exp-icon" src="/assets/img/ShopifyIcon.png">
+    <div class='content'>
+      <h4>Shopify - iOS Intern</h4>
+      <p>Shipped core features such as Multi Location in production Shopify iOS app with over 120k monthly active users.</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
+  <a target='_blank' href="https://www.shoebox.md/">
+    <img class="exp-icon" src="/assets/img/ShoeboxIcon.png">
+    <div class='content'>
+      <h4>Clearwater Clinical - iOS Developer</h4>
+      <p>Redesigned, developed and deployed a new calibration iOS app from scratch using Objective-C.</p>
+    </div>
+  </a>
+</div>
+
+## Projects
+
+<div class="app-desc">
+  <a target='_blank' href="https://github.com/schmidyy/ParkSpace">
+    <img class="exp-icon" src="/assets/img/PSIcon.png">
+    <div class='content'>
+      <h4>ParkSpace</h4>
+      <p>Allows homeowners to rent their driveway at a specified rate and time. Built with Google Maps, Stripe, and Firebase.</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
+  <a target='_blank' href="https://github.com/schmidyy/SwiftyCryptoDisco">
+    <img class="exp-icon" src="/assets/img/CDIcon.png">
+    <div class='content'>
+      <h4>Crypto Disco</h4>
+      <p>Crypto currency monitoring app with historical data pulled using REST API from CoinMarketCap and CoinAPI.</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
+  <a target='_blank' href="https://github.com/trendify-app/trendify-dumbledore">
+    <img class="exp-icon" src="/assets/img/TrendifyIcon.png">
+    <div class='content'>
+      <h4>Trendify</h4>
+      <p>A web/iOS based game which uses SocketIO and open source Google Trends module to allow users to compete.</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
+  <a target='_blank' href="https://github.com/diabuddy/ios">
+    <img class="exp-icon" src="/assets/img/DiabuddyIcon.png">
+    <div class='content'>
+      <h4>Diabuddy</h4>
+      <p>Mobile app aimed for children with diabetes to monitor their insulin dosages, paired with a web portal for parents.</p>
+    </div>
+  </a>
+</div>
+
+<!-- ## Awards
+
+#### Hacking Health 2018 Hackathon
+* Winner of 3-month Shopify Mentornship
+
+#### CUHacking 2018
+* Winner of STDLIB prize for Best Hack submitted on a DotTech Domain
+* Winner of Wolfram's Top 5 Teams -->
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +193,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->

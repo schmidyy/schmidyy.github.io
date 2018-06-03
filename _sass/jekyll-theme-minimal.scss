@@ -9,6 +9,69 @@ body {
   font-weight:400;
 }
 
+.title {
+  margin: 0;
+}
+
+.location {
+  display: flex;
+  flex-direction: row;
+  svg {
+    height: 20px;
+    width: 18px;
+  }
+}
+
+.links {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  a, p {
+    margin: 6px;
+  }
+}
+
+.app-desc {
+  a {
+    display: flex;
+    flex-direction: row;
+    
+    img {
+      height: 5rem;
+      width: 5rem;
+    }
+    .content {
+      flex-direction: column;
+      margin-left: 1rem;
+      margin-top: 4px;
+      h4 {
+        margin: 0;
+      }
+      p, p:hover {
+        text-decoration: none;
+        color: black;
+        font-weight: 400;
+      }
+    }
+    &:hover {
+      h4 {
+      text-decoration: underline
+      }
+      p {
+        text-decoration: none;
+        color: black;
+        font-weight: 400;
+      }
+    }
+    
+  }
+}
+
+.exp-icon {
+  height: 5rem;
+  width: 5rem;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -23,7 +86,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:34px;
 }
 
 h2 {
@@ -102,6 +165,7 @@ th {
 
 img {
   max-width:100%;
+  border-radius: 1rem;
 }
 
 header {
