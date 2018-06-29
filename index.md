@@ -9,7 +9,7 @@ layout: default
     <img class="exp-icon" src="/assets/img/ShopifyIcon.png">
     <div class='content'>
       <h4>Shopify - iOS Intern</h4>
-      <p>Shipped core features such as Multi Location in production Shopify iOS app with over 120k monthly active users.</p>
+      <p>Shipped core features such as Multi Location in production Shopify iOS app with over 500k+ unique monthly active users.</p>
     </div>
   </a>
 </div>
