@@ -51,8 +51,8 @@ layout: default
   <a target='_blank' href="https://devpost.com/software/breww">
     <img class="exp-icon" src="/assets/img/BrewwIcon.png">
     <div class='content'>
-      <h4>Breww - Made for HackHarvard 2018 👑</h4>
-      <p>Modern iOS application to catalogue and recommend beers!</p>
+      <h4>Breww - Built for HackHarvard 2018 👑</h4>
+      <p>Modern iOS application to catalogue and recommend beers! Used Azure's Computer Vision (OCR) and Intelligent Search APIs</p>
     </div>
   </a>
 </div>
