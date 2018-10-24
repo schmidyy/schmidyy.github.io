@@ -52,7 +52,7 @@ layout: default
     <img class="exp-icon" src="/assets/img/BrewwIcon.png">
     <div class='content'>
       <h4>Breww - Built for HackHarvard 2018 👑</h4>
-      <p>Modern iOS application to catalogue and recommend beers! Used Azure's Computer Vision (OCR) and Intelligent Search APIs</p>
+      <p>Modern iOS application to catalogue and recommend beers! Used Azure's Computer Vision and Intelligent Search APIs</p>
     </div>
   </a>
 </div>
