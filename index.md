@@ -48,6 +48,16 @@ layout: default
 </div>
 
 <div class="app-desc">
+  <a target='_blank' href="https://devpost.com/software/breww">
+    <img class="exp-icon" src="/assets/img/BrewwIcon.png">
+    <div class='content'>
+      <h4>Breww - Made for HackHarvard 2018 👑</h4>
+      <p>Modern iOS application to catalogue and recommend beers!</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
   <a target='_blank' href="https://devpost.com/software/trendify-bdsve7">
     <img class="exp-icon" src="/assets/img/TrendifyIcon.png">
     <div class='content'>
