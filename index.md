@@ -8,7 +8,7 @@ layout: default
   <a target='_blank' href="https://www.shopify.ca/">
     <img class="exp-icon" src="/assets/img/ShopifyIcon.png">
     <div class='content'>
-      <h4>Shopify - iOS Intern</h4>
+      <h4>Shopify - iOS Developer</h4>
       <p>Shipped core features such as Multi Location in production Shopify iOS app with over 500k+ unique monthly active users.</p>
     </div>
   </a>
