@@ -28,6 +28,16 @@ layout: default
 ## Projects
 
 <div class="app-desc">
+  <a target='_blank' href="https://github.com/schmidyy/BitLeague">
+    <img class="exp-icon" src="/assets/img/BitLeagueIcon.png">
+    <div class='content'>
+      <h4>BitLeague - Built for QHacks 2019 👑</h4>
+      <p>Create, browse, and vote on community recreations of Bitmojis. Used SnapKit for Auth, GraphQL + Firebase for networking.</p>
+    </div>
+  </a>
+</div>
+
+<div class="app-desc">
   <a target='_blank' href="https://github.com/schmidyy/ParkSpace">
     <img class="exp-icon" src="/assets/img/PSIcon.png">
     <div class='content'>
@@ -76,3 +86,11 @@ layout: default
     </div>
   </a>
 </div>
+
+----
+## Open source
+
+[**Loaf** - A simple framework for easy iOS Toasts](https://github.com/schmidyy/Loaf)
+- Created, built and maintained individually.
+- Praised in popular Swift forums and podcasts.
+- Thousands of downloads per week.
